@@ -1,4 +1,6 @@
 # Computer-Security
+For any students currenly take this course and study at Purude, you should do all your works by YOURSELF!!!!!
+
 HW1 based on go over all key space which is 2^16 to find the key and decrypted the encrypted message. The encryption and decryption method is based on XOR. We use the same key for encryption and decryption.
 
 
